@@ -13,10 +13,10 @@ Instalación en Ubuntu
 $ sudo aptitude install collectd mongodb nodejs git
 ```
 
-Instalación en Archlinxu
+Instalación en Archlinux
 
 ```
-$ sudo pacman -S collectd mongodb nodejs git
+$ yaourt -S collectd mongodb nodejs git nodejs-bower
 ```
 
 ## Instalación del proyecto GPS
